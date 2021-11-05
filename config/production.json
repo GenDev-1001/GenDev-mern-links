@@ -1,0 +1,6 @@
+{
+  "port": 5000,
+  "jwtSecret": "gennadiy mern",
+  "mongoUri": "mongodb+srv://Gennadiy:16131488@cluster0.v8zdn.mongodb.net/app?retryWrites=true&w=majority",
+  "baseUrl": "http://localhost:5000"
+}
